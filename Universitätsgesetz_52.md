@@ -1,2 +1,5 @@
 # Einteilung des Studienjahres
-§ 52. Das Studienjahr besteht aus dem Wintersemester, dem Sommersemester und der lehrveranstaltungsfreien Zeit. Es beginnt am 1. Oktober und endet am 30. September des folgenden Jahres. Der Senat hat nähere Bestimmungen über Beginn und Ende der Semester und der lehrveranstaltungsfreien Zeit zu erlassen.
+§ 52. (1) Das Studienjahr beginnt am 1. Oktober und endet am 30. September des Folgejahres. Es besteht aus dem Wintersemester und dem Sommersemester, jeweils einschließlich der lehrveranstaltungsfreien Zeit. Der Senat hat nähere Bestimmungen über Beginn und Ende der Semester und der lehrveranstaltungsfreien Zeit zu erlassen.
+(2) An den Medizinischen Universitäten bzw. an den Universitäten, an denen eine Medizinische Fakultät eingerichtet ist, kann der Senat nähere Bestimmungen über Beginn und Ende des Klinisch-Praktischen Jahres im Rahmen des Studiums der Humanmedizin (§ 35a) erlassen, wobei während der Dauer des Klinisch-Praktischen Jahres keine lehrveranstaltungsfreie Zeit möglich ist.
+
+(3) An den Medizinischen Universitäten kann der Senat nähere Bestimmungen über Beginn und Ende des Zahnmedizinisch-Klinischen Praktikums im Rahmen des Studiums der Zahnmedizin (§ 35b) erlassen, wobei während der Dauer des Zahnmedizinisch-Klinischen Praktikums keine lehrveranstaltungsfreie Zeit möglich ist.
