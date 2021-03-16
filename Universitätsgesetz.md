@@ -1,3 +1,13 @@
-# Fernstudien
-§ 53. (1) In jedem Studium dürfen Fernstudieneinheiten festgelegt werden. Dabei ist die Erreichung des Lehrzieles durch die planmäßige Abfolge von unterrichtlicher Betreuung und Selbststudium der Teilnehmerinnen und Teilnehmer mittels geeigneter Lernmaterialien sicherzustellen.
-(2) Die Aufgliederung der vorgesehenen Unterrichtseinheiten auf unterrichtliche Betreuung und Selbststudium, das Lehrangebot und die vorgesehenen Lernmaterialien sind den Studierenden vor Beginn der Fernstudieneinheit in geeigneter Weise bekannt zu machen.
+# Aufbewahrung von universitätsspezifischen Daten
+§ 53. Folgende Prüfungsdaten gemäß § 9 Z 15 des Bildungsdokumentationsgesetzes 2020 müssen mindestens 80 Jahre in geeigneter Form aufbewahrt werden:
+1. die Bezeichnung von Prüfungen oder das Thema der wissenschaftlichen oder künstlerischen Arbeiten,
+
+2. die vergebenen ECTS-Anrechnungspunkte,
+
+3. die Beurteilung,
+
+4. die Namen der Prüferinnen und Prüfer oder der Beurteilerinnen und Beurteiler,
+
+5. das Datum der Prüfung oder der Beurteilung sowie
+
+6. der Name und die Matrikelnummer der oder des Studierenden.
